@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Compiled output
+dist/
+out-tsc/
+
+# Angular specific settings
+.angular/
+.angular.json
+
+# Test coverage
+coverage/
+
+# IDE specific files (VSCode, WebStorm, etc.)
+.vscode/
+*.code-workspace
+
+# Local environment settings
+.env
+*.env
